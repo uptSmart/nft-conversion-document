@@ -6,5 +6,5 @@ Moreover, traditional NFT platforms only support NFT assets on EVM or WASM. Both
 
 Therefore, Uptick provides support for mainstream EVM and WASM contracts and seamless conversion between the two types of assets at the contract layer.
 
-<img src="MajorSmartContract.png" alt="drawing" width="1600"/>
+<img src="MajorSmartContract.png" alt="drawing" width="150%"/>
 
